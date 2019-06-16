@@ -1,5 +1,5 @@
 # Description
-Small script illustrating the application of a Monte Carlo method to determine the value of pi
+Small script illustrating the application of a Monte Carlo method to determine the value of *Pi*.
 	
 	
 # Technologies used
